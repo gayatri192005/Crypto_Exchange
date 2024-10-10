@@ -1,30 +1,23 @@
-# CryptoX
-Buy & Sell Digital Assets In The CryptoX
-Coin CryptoX is the easiest, safest, and fastest way to buy & sell crypto asset exchange.
+Buy & Sell Digital Assets with CryptoX
+CryptoX offers a secure, fast, and user-friendly platform for buying and selling crypto assets.
 
+What is Crypto Exchange ?
+Experience seamless trading on Bitcost, where you can explore a range of transactions, including Spot Trading, Futures Trading, P2P, Staking, Mining, and Margin Trading.
 
-- What Is CryptoX
-Experience a variety of trading on Bitcost. You can use various types of coin transactions such as Spot Trade, Futures Trade, P2P, Staking, Mining, and margin.
+View Real-Time Cryptocurrency Prices
+Stay updated with live market prices on Bitcost, and enjoy diverse trading options like Spot Trading, Futures Trading, P2P, Staking, Mining, and Margin Trading.
 
-- View real-time cryptocurrency prices
-* Experience a variety of trading on Bitcost. You can use various types of coin transactions such as Spot Trade, Futures Trade, P2P, Staking, Mining, and margin.
+Buy and Sell BTC, ETH, XRP, OKB, and More
+Effortlessly trade a variety of cryptocurrencies, leveraging multiple transaction types like Spot Trading, Futures, P2P, Staking, Mining, and Margin on Bitcost.
 
-- Buy and sell BTC, ETH, XRP, OKB, Etc...
-* Experience a variety of trading on Bitcost. You can use various types of coin transactions such as Spot Trade, Futures Trade, P2P, Staking, Mining, and margin.
+Unlock Financial Freedom & Invest with Confidence
+Trade confidently with Cryptor Trade, knowing your skills are supported by a secure and efficient platform.
 
-- Free Your Money & Invest With Confident
-With Cryptor Trade, you can be sure your trading skills are matched
+Trade Anytime, Anywhere
+Manage your crypto portfolio effortlessly from your mobile device.
 
-- Buy, Sell, And Trade On The Go
-* Manage Your Holdings From Your Mobile Decive
-
-- Take Control Of Your Wealth
-* Rest Assured You (And Only You) Have Access To Your Funds
-
-  ## Raise an issue
-
-You can raise an issue to report a bug or to request a new feature. Before raising an issue, please make sure that the issue you are raising is not already present among the existing issues.
-
+Take Control of Your Wealth
+Enjoy full control over your funds, knowing that only you can access your assets.
 # How to make a PR
 
 <!-- in detail -->
