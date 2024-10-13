@@ -297,7 +297,7 @@ body.active { overflow: hidden; }
 
   0% {
     transform: translateY(0);
-    background-color: var(--white);
+    background-color: var(--blue);
   }
 
   100% {
